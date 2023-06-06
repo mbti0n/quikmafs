@@ -1,4 +1,4 @@
-# quikmafs
+# QuikMafs
 A Discord bot that does calculations.
 
 ----
