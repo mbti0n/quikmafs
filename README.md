@@ -1,2 +1,2 @@
 # quikmafs
-A Discord bot that does calculations
+A Discord bot that does calculations.
