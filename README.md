@@ -1,3 +1,4 @@
+![Discord](https://github.com/mbti0n/quikmafs/assets/105599214/808aaf4c-11c7-4b59-88f6-d85c7b34a64d)
 # QuikMafs
 A Discord bot that does calculations.
 
