@@ -2,6 +2,8 @@
 # QuikMafs
 A Discord bot that does calculations.
 
+[**Invite me!**](https://discord.com/api/oauth2/authorize?client_id=1115198178401202176&permissions=274877966336&scope=bot)
+
 ----
 ## Working functions
 
