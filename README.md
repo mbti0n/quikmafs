@@ -4,6 +4,12 @@ A Discord bot that does calculations.
 
 ----
 ## Working functions
+
+### Version 3 (Release)
+- `.calc <expression>`: do calculations (alias: `.c`)
+- `.solving <equation>`: solve a given equation (alias: `.s`)
+- `.standard <list of numbers, with spaces but not commas>`: find the standard deviation of a list of numbers given (aliases: `.sd`, `.standarddeviation`)
+
 ### Version 2
 - `.sin <angle> <rad_or_deg>`: find the sine value of an angle in rad/deg (alias: `.sine`)
 - `.cos <angle> <rad_or_deg>`: find the cosine value of an angle in rad/deg (alias: `.cosine`)
@@ -15,7 +21,6 @@ A Discord bot that does calculations.
 - `.gcd <num1> <num2>`: find the GCD/GCF value of 2 numbers (alias: `.gcf`)
 
 ### Version 1
-- `.calc <num1> <sign> <num2>`: do calculations (with numbers only) (adding, subtracting, multiplying, dividing, and exponential) (alias: `.c`)
 - `.factorial <number>`: do factorial calculations
 - `.tax <price> <tax>`: calculate sales tax
 - `.tip <bill> <tip> <person>`: calculate tips
