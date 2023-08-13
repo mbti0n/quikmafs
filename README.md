@@ -4,6 +4,8 @@ A Discord bot that does calculations.
 
 [**Invite me!**](https://discord.com/api/oauth2/authorize?client_id=1115198178401202176&permissions=274877966336&scope=bot)
 
+[![Donate me!](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/mbtion123?country.x=US&locale.x=en_US)
+
 ----
 ## Working functions
 
